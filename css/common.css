@@ -1,0 +1,65 @@
+/*header*/
+header {
+	padding: 20px 50px;
+}
+.mg-l {
+	margin-left: 70px;
+}
+.text {
+	margin:10px;
+	font-size: 30px;
+}
+
+/*section*/
+.ballet {
+	background-image: url(../img/shoes_1.jpg);
+	height: 500px;
+	background-size: 62%;
+	background-position: right;
+	background-repeat: no-repeat;
+	padding-top: 30px;
+}
+.search-field {
+	border: 2px solid #E7E6E6;
+	margin: 0px 0px;
+	padding: 10px 0px 10px 40px;
+	width: 461px;
+	font-size: 18px;
+	background-color: transparent;
+}
+.contactenos {
+	font-size: 30px;
+	margin: 25px 0px 5px;
+	font-weight: 700;
+}
+.svg {
+	width: 25px;
+	position: relative;
+	top: 40px;
+	left: 8px;
+}
+.contenedor {
+	width: 505px;
+	height: 60px;
+}
+.enviar {
+	width: 505px;
+	height: 60px;
+	margin-top: 120px;
+	background-color: #192951;
+	padding: 20px 50px;
+	color: white;
+	box-sizing: border-box;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 10px;
+}
+/*footer*/
+footer {
+	background-color: #192951;
+	padding: 30px 20px 10px;
+	color: white;
+}
+p {
+	font-size: 12px;
+}

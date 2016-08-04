@@ -1,0 +1,54 @@
+/*section*/
+.ballet {
+	background-image: url(../img/dance_12.jpg);
+	background-size: 100%;
+	height: 365px;
+	padding-top: 80px;
+	margin: 0px 20px 10px 0px
+}
+.dance-modern {
+	background-image: url(../img/breakdance.jpg);
+	background-size: 100%;
+	height: 365px;
+	padding-top: 80px;
+	margin: 0px 20px 10px 0px
+}
+.jazz-liric {
+	background-image: url(../img/lirical-jazz.jpg);
+	background-size: 100%;
+	height: 365px;
+	padding-top: 80px;
+	margin: 0px 20px 10px 0px;
+}
+.arabic-dance {
+	background-image: url(../img/arabe.jpg);
+	background-size: 100%;
+	height: 365px;
+	padding-top: 80px;
+	margin: 0px 20px 10px 0px;
+}
+.kid-lesson {
+	background-image: url(../img/little.jpg);
+	background-size: 100%;
+	height: 365px;
+	padding-top: 80px;
+	margin: 0px 20px 10px 0px;
+}
+.yoga-gance {
+	background-image: url(../img/yoga.jpg);
+	background-size: 100%;
+	height: 365px;
+	padding-top: 80px;
+}
+.overlay {
+	width: 80%;
+	height: 100px;
+	margin: 50px auto;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	
+}
+.baile {
+	font-size: 18px;
+	padding-top: 50px 0px 20px;
+}
