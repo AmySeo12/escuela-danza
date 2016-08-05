@@ -1,1 +1,47 @@
-/* Inserta tu codigo aqui */
+.h2 {
+	font-size: 22px;
+	margin-bottom: 40px;
+}
+.gray {
+	background-color: #DFDFDF;
+	padding: 38px 30px 20px 30px;
+}
+.h4 {
+	margin: 10px 10px 10px 0px;
+}
+.ver-más {
+	width: 30%;
+	height: 40px;
+	margin-top: 20px;
+	background-color: #192951;
+	padding: 10px;
+	color: white;
+	box-sizing: border-box;
+	font-size: 14px;
+	text-align: center;
+	border-radius: 7px;
+}
+.h6 {
+	font-size: 14px;
+	font-style: italic;
+	margin-bottom: 10px;
+	color: #CDCDCD;
+}
+.parráfo {
+	font-size: 15px;
+}
+.blog1 {
+	background-image: url(../img/blog1.jpg);
+	width: 100%;
+	height: 256px;
+}
+.profesor_5 {
+	background-image: url(../img/profesor_5.jpg);
+	width: 100%;
+	height: 256px;
+}
+.instructor_1 {
+	background-image: url(../img/instructor_1.jpg);
+	width: 100%;
+	height: 256px;	
+}
