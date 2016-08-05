@@ -54,19 +54,13 @@
 .ins_4{
 	background-image: url(../img/instructor_4.jpg);
 	height: 317px;
-	width: 49.9%;
-	background-size: 100%;
 }
 .pro_9 {
 	background-image: url(../img/profesor_9.jpg);
 	height: 317px;
-	width: 49.8%;
-	background-size: 100%;
 }
 .ins_4, .pro_9 {
-	margin: 0px !Important;
-	border: 1px solid #596379;
-	float: left;
+	border: 1px solid #596379;;
 }
 .relative {
 	position: relative;
